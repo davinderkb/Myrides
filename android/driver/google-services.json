@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "648604023490",
+    "firebase_url": "https://driver-b5594.firebaseio.com",
+    "project_id": "driver-b5594",
+    "storage_bucket": "driver-b5594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648604023490:android:afa0dc62c71ba0c95f595b",
+        "android_client_info": {
+          "package_name": "com.minimal.taxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648604023490-mqrg9clckqvvuj4hpcg7nvguhsmft902.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minimal.taxi.driver",
+            "certificate_hash": "9b111f36e3f164189f2e459f97aa466fda4bb665"
+          }
+        },
+        {
+          "client_id": "648604023490-59ccgvrph8f44ti2l2lrt5jg1ecfvq30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL-Qe-zXbmoxgIcXELpEJ2eRtOO3bbfxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648604023490-59ccgvrph8f44ti2l2lrt5jg1ecfvq30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

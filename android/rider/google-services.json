@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "411725054195",
+    "firebase_url": "https://rider-ce8c5.firebaseio.com",
+    "project_id": "rider-ce8c5",
+    "storage_bucket": "rider-ce8c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411725054195:android:375c630b720f62c9ed3786",
+        "android_client_info": {
+          "package_name": "com.minimal.taxi.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411725054195-8rdf7nd46eoeaub6eenp0bq7h52alur2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minimal.taxi.rider",
+            "certificate_hash": "9b111f36e3f164189f2e459f97aa466fda4bb665"
+          }
+        },
+        {
+          "client_id": "411725054195-7tj8khv6ijk2o3eosgdjjraujleps8gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPtPNEbO_aCzhqtE1u8oFPD1IEbzWwbi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411725054195-7tj8khv6ijk2o3eosgdjjraujleps8gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
